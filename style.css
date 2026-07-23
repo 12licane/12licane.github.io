@@ -1,4 +1,8 @@
 html{
     font-family: Helvetica;
-    background-color: palegreen;
+    background-color: palegoldenrod;
+}
+
+p{
+    border: 1px solid grey;
 }
